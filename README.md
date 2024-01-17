@@ -48,3 +48,40 @@ Here's a beginner-friendly step-by-step guide to get started with Visual Studio 
 ### Step 12: Keep Exploring
 1. **Explore More Features**: As you become comfortable, explore more features like snippets, multi-cursor editing, and refactoring tools.
 2. **Update Regularly**: VS Code gets frequent updates. Make sure to keep it updated for the latest features and security patches.
+## Git and GitHub Glossary
+
+### Branch
+A **Branch** in Git is essentially a unique set of code changes with a unique name. Each repository can have one or more branches.
+
+### Clone
+**Clone** is a Git command line utility which is used to target an existing repository and create a clone, or copy of the target repository.
+
+### Commit
+A **Commit** is an individual change to a file (or set of files). It's like when you save a file, except with Git, every time you save it creates a unique ID (a.k.a. the "commit SHA" or "hash") that allows you to keep record of what changes were made when and by who.
+
+### Fetch
+**Fetch** is a command that tells Git to get the latest changes from a remote repository but not to merge them.
+
+### GIT
+**GIT** is a distributed version control system for tracking changes in source code during software development.
+
+### GitHub
+**GitHub** is a cloud-based hosting service that lets you manage Git repositories. It provides a Web-based graphical interface. It also provides access control and several collaboration features, such as a wikis and basic task management tools for every project.
+
+### Merge
+**Merge** is a Git operation that allows you to combine two or more development histories together.
+
+### Merge Conflict
+A **Merge Conflict** occurs when Git is unable to automatically resolve differences in code between two commits.
+
+### Push
+**Push** is the command used to upload local repository content to a remote repository.
+
+### Pull
+**Pull** is used to fetch and download content from a remote repository and immediately update the local repository to match that content.
+
+### Remote
+A **Remote** in Git is a common repository that all team members use to exchange their changes.
+
+### Repository
+A **Repository** is a directory or storage space where your projects can live. It can be local to a folder on your computer, or it can be a storage space on GitHub or another online host.
