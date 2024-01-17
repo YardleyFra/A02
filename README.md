@@ -45,6 +45,3 @@ Here's a beginner-friendly step-by-step guide to get started with Visual Studio 
 1. **View Shortcuts**: Use `Ctrl + K Ctrl + S` to view and customize keyboard shortcuts.
 2. **Learn**: Try to learn shortcuts for actions you use frequently.
 
-### Step 12: Keep Exploring
-1. **Explore More Features**: As you become comfortable, explore more features like snippets, multi-cursor editing, and refactoring tools.
-2. **Update Regularly**: VS Code gets frequent updates. Make sure to keep it updated for the latest features and security patches.
