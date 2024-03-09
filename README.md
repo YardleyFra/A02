@@ -45,3 +45,4 @@ Here's a beginner-friendly step-by-step guide to get started with Visual Studio 
 1. **View Shortcuts**: Use `Ctrl + K Ctrl + S` to view and customize keyboard shortcuts.
 2. **Learn**: Try to learn shortcuts for actions you use frequently.
 
+
